@@ -1,6 +1,6 @@
 +++
 title = "Language Model Domain Adaptation via Recurrent Neural Networks with Domain-shared and Domain-specific Representations"
-date = 2018-05-06T22:40:08+09:00
+date = 2018-04-19
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["Tsuyoshi Morioka", "Naohiro Tawara", "Tetsuji Ogawa", "Atsunori Ogaw
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = "ICASSP 2018"
+publication = "International Conference on Acoustic, Speech and Signal Processing"
+publication_short = "ICASSP"
 
 # Abstract and optional shortened version.
 abstract = ""
