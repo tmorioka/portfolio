@@ -1,5 +1,5 @@
 +++
-title = "MoriokaTOIOK18"
+title = "Language Model Domain Adaptation via Recurrent Neural Networks with Domain-shared and Domain-specific Representations"
 date = 2018-05-06T22:40:08+09:00
 draft = false
 
@@ -18,8 +18,8 @@ authors = ["Tsuyoshi Morioka", "Naohiro Tawara", "Tetsuji Ogawa", "Atsunori Ogaw
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Language Model Domain Adaptation via Recurrent Neural Networks with Domain-shared and Domain-specific Representations"
-publication_short = ""
+publication = ""
+publication_short = "ICASSP 2018"
 
 # Abstract and optional shortened version.
 abstract = ""
