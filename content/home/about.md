@@ -21,20 +21,17 @@ weight = 5
 [[education.courses]] 
   course = "PhD candidate in Computer Science" 
   institution = "Waseda University" 
-  year = 2018
+  year = 2017.4
  
 [[education.courses]] 
   course = "MEng in Computer Science" 
   institution = "Waseda University" 
-  year = 2017
+  year = 2017.3
  
 [[education.courses]] 
   course = "BSc in Computer Science" 
   institution = "Waseda University" 
-  year = 2014
+  year = 2014.4
  
 +++
 
-# Biography
-
-bio
