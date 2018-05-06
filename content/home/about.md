@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]] 
   course = "PhD candidate in Computer Science" 
   institution = "Waseda University" 
-  year = now
+  year = 2018
  
 [[education.courses]] 
   course = "MEng in Computer Science" 
