@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "tmorioka's portfolio"
+title = "miki16g.com"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Waseda University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "prof_img_morioka.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "miki16g __at_mark__ gmail.com"
   address = ""
   office_hours = ""
