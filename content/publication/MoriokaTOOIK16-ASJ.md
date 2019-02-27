@@ -1,10 +1,10 @@
 +++
-title = "Language Model Domain Adaptation via Recurrent Neural Networks with Domain-shared and Domain-specific Representations"
-date = 2018-04-19
+title = "少量データに頑健なニューラルネットワーク言語モデル"
+date = 2016-09-15
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Tsuyoshi Morioka", "Naohiro Tawara", "Tetsuji Ogawa", "Atsunori Ogawa", "Tomoharu Iwata", "Tetsunori Kobayashi"]
+authors = ["森岡　幹", "岩田　具治", "小川　厚徳", "俵　直弘", "小川　哲司", "小林　哲則"]
 
 # Publication type.
 # Legend:
@@ -15,11 +15,11 @@ authors = ["Tsuyoshi Morioka", "Naohiro Tawara", "Tetsuji Ogawa", "Atsunori Ogaw
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Acoustic, Speech and Signal Processing"
-publication_short = "ICASSP"
+publication = "音響学会"
+publication_short = "ASJ"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -29,12 +29,13 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+#   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
 projects = []
 
 # Tags (optional).
@@ -54,7 +55,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "IEEE Xplore", url = "https://ieeexplore.ieee.org/abstract/document/8462631"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

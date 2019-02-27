@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["recurrent neural network", "language model", "multiscale dynamics", "speech recognition"]
+tags = []
 
 # Links (optional).
 url_pdf = "https://www.isca-speech.org/archive/interspeech_2015/papers/i15_2366.pdf"
